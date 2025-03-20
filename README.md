@@ -31,7 +31,8 @@ I’m open to collaborating on projects related to:
 - **Data Analysis**  
 - **Predictive Modeling**  
 - **Dashboard Development**  
-- **Open-Source Contributions**  
+- **Open-Source Contributions**
+- **Machine Learning** 
 
 If you’re working on something exciting in the data space, let’s connect!  
 
